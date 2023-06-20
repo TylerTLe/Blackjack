@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: rgb(2, 48, 2);
+}
+
+#wrapper{
+    margin: 0 auto;
+}
+
+#game{
+    background: transparent url('table.jpg') 0 0 no-repeat;
+    border-radius: 5px;
+    color: #333;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
